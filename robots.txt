@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://twt2shiv.github.io/resources-wizx22/sitemap.xml
